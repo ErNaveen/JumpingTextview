@@ -1,5 +1,6 @@
 JumpingBeans
 ============
+This Project run on 4.4 in android
 
 
 The **JumpingBeans** make your test jump to the eye. Literally!
