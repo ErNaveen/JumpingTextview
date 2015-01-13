@@ -16,13 +16,6 @@ Well, since there's no official naming for them, and since they remind me of the
 Mexican beans, the name for a library that emulates their behaviour has come to be exactly
 that: **JumpingBeans**.
 
-## See them in action
-Please come closer, ladies and gentlemen! Here you have, for your own amusement, the
-amazing JumpingBeans:
-
-![Jumping dots](art/jumpingdots.gif)
-
-![Animated first word](art/jumpingword.gif)
 
 ## What you can do
 The library supports two main operation modes: **appending three jumping dots**,
